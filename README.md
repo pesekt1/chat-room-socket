@@ -15,6 +15,8 @@ npm run start:client
 npm run start:server
 ```
 
+Run multiple clients in different tabs and see how the messages are sent to all the clients.
+
 ## Server
 We create a socket and define events for the server. The server listens to the events and sends back a response:
 - connection
